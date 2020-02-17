@@ -1,0 +1,6 @@
+# Don't track content of these folders
+/PS1/bin/
+/PS1/.settings/
+/PS1/.classpath
+/PS1/.project
+
